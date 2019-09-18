@@ -1,3 +1,4 @@
+# naamgeving bestand
 file = 'insert\\full\\file\\he_re'
 f = open(file, "r")
 lines = f.readlines()
